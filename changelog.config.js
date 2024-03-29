@@ -24,7 +24,7 @@ module.exports = {
     },
     feat: {
       description: '新增特性或功能',
-      emoji: '✨',
+      emoji: '🌱',
       value: 'feat'
     },
     fix: {
